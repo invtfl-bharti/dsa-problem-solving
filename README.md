@@ -1,4 +1,4 @@
-# dsa-problem-solving
+
 # Array Zero-One Counter
 
 This repository contains a simple C++ program that prints an array and counts the occurrences of zeros and ones in it.
